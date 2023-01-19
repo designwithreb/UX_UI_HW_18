@@ -32,7 +32,7 @@ heroImg {
 }
 
 footer {
-    background-color: #373738;
+    background-color: #DCE4ED;
     padding: 1%;
 }
 
@@ -40,4 +40,21 @@ footer ul{
     display: inline-block;
     vertical-align: top;
     padding: 2px;
+}
+
+.flexContainer {
+    display: flex;
+    width: 33%;
+    margin: auto;
+    padding: 20px;
+    flex-direction: row;
+
+}
+
+.workGrid {
+    
+
+    display: grid;
+
+
 }
